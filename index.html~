@@ -26,7 +26,7 @@
 								<p>PHD CANDIDATE - ASTRONOMY <br> Georgia State University <br>Research Interest: Stellar & Exoplanet Atmospheres </p>
 							</header>
 							<footer>
-								<a href="#banner" class="button circled scrolly">About Me</a> <a href="#main" class="button circled scrolly">Research</a> <a href="#cv" class="button circled scrolly">C.V.</a> <a href="#family" class="button circled scrolly">Family</a> <a href="#footer" class="button circled scrolly">Contact</a><br><br><br><br><br><br><br><br>
+								<a href="#banner" class="button circled scrolly">About Me</a> <a href="#main" class="button circled scrolly">Research</a> <a href="#cv" class="button circled scrolly">C.V.</a> <a href="#resources" class="button circled scrolly">Resources</a> <a href="#family" class="button circled scrolly">Family</a> <a href="#footer" class="button circled scrolly">Contact</a><br><br><br><br><br><br><br><br>
 							</footer>
 							
 							<!-- Copyright -->
@@ -69,7 +69,7 @@
 
 					</article>
 
-			<!-- Research -->
+<!-- Research -->
 				<div class="wrapper style2">
 				<article id="main" class="container special">
 
@@ -182,9 +182,45 @@ HD 285507, (i) GJ0250A, and (j) eps Ind. Spectral types taken from the Simbad da
 					</div>
 				</div>
 		</div>
+
+<!-- Astro Educational Resources -->
+				<div class="wrapper style2">				
+					<section id="resources" class="container special">
+								
+
+<header><p align="justify"> 
+<br>
+<h2><a>Astronomy Educational Resources</a></h2>
+</p></header>
+						
+							 
+<p align="left"> 
+
+
+
+<img src="images/crashcourse.png" width="300" height="300" class="rounded-corners" alt="" style="float: right; margin-right:15% ">
+<font size="+3.5">
+
+&#10687; <a href="https://www.youtube.com/watch?v=sViAwfeMjV0&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL">Crash Course Astronomy (All Ages)</a> <br><br>
+
+&#10687; <a href="https://www.youtube.com/playlist?list=PL-KrZDFrP_chuECBPybRQJo7sbL-IyK1q"> Planet Cosmo Video Series (Pre K-5) </a> <br><br>
+
+&#10687; <a href="https://www.palebluemarbles.com/"> Pale Blue Marbles: Astrobiology for Kids(K-5) </a>  <br><br>
+
+&#10687; <a href="https://www.lpi.usra.edu/education/solar-system/"> Lunar Planetary Institute: Education Resources (All Ages)</a>  <br><br>
+
+&#10687; <a href="https://skyandtelescope.org/homeschool-resources/"> Sky & Telescope Home School Resources (K-12) </a>  <br><br>
+
+</font>
+
+
+</p><a href="#family" class="button">Next Section</a>
+
+
+				</div>
 				
 				
-<!-- Features -->
+<!-- Family -->
 				<div class="wrapper style1">
 
 					<section id="family" class="container special">
