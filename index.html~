@@ -26,13 +26,14 @@
 								<p>PHD CANDIDATE - ASTRONOMY <br> Georgia State University <br>Research Interest: Stellar & Exoplanet Atmospheres </p>
 							</header>
 							<footer>
-								<a href="#banner" class="button circled scrolly">About Me</a> <a href="#main" class="button circled scrolly">Research</a> <a href="#cv" class="button circled scrolly">C.V.</a> <a href="#resources" class="button circled scrolly">Resources</a> <a href="#family" class="button circled scrolly">Family</a> <a href="#footer" class="button circled scrolly">Contact</a><br><br><br><br><br><br><br><br>
+								<a href="#banner" class="button circled scrolly">About Me</a> <a href="#main" class="button circled scrolly">Research</a> <a href="spectral_library/page1.html" class="button circled scrolly">Library</a> <a href="#cv" class="button circled scrolly">C.V.</a> <br> <a href="#resources" class="button circled scrolly">Resources</a> <a href="#family" class="button circled scrolly">Family</a> <a href="#footer" class="button circled scrolly">Contact</a><br><br><br><br><br><br><br><br>
 							</footer>
 							
 							<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li><a href="https://www.nasa.gov/feature/jpl/interstellar-crossing-the-cosmic-void"target="_blank">Image Credits: Charles Carter/Keck Institute for Space Studies</a></li>
+
+											<li><a href="https://www.nasa.gov/feature/jpl/interstellar-crossing-the-cosmic-void"target="_blank">Interstellar: Crossing the Cosmic Void <br> Image Credits: Charles Carter/Keck Institute for Space Studies</a></li>
 										</ul>
 									</div>
 						</div>
@@ -214,8 +215,10 @@ HD 285507, (i) GJ0250A, and (j) eps Ind. Spectral types taken from the Simbad da
 </font>
 
 
-</p><a href="#family" class="button">Next Section</a>
-
+</p>
+<center>
+<a href="#family" class="button">Next Section</a>
+</center>
 
 				</div>
 				
