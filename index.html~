@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Hodari-Sadiki James</title>
+		<title>Hodari-Sadiki Hubbard-James</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -23,7 +23,7 @@
 							<header>
 								<h1><a href="index.html" id="logo">Hodari-Sadiki Hubbard-James</a></h1>
 								<hr />
-								<p><a href="https://hodarijames.github.io/hodaridefense" style="color: #ffffff; font-weight: bold;">PhD Dissertation Defense</a> <br> Georgia State University <br>Research Interest: Stellar & Exoplanet Atmospheres </p>
+								<p> <br> Assistant Professor of Astronomy <br> Agnes Scott College <br> Research Interests: Stellar Age & Activity, Exoplanet Atmospheres, and Astrobiology. </p>
 							</header>
 							<footer>
 								<a href="#banner" class="button circled scrolly">About Me</a> <a href="#main" class="button circled scrolly">Research</a> <a href="spectral_library/page1.html" class="button circled scrolly">Library</a> <a href="#cv" class="button circled scrolly">C.V.</a> <a href="#resources" class="button circled scrolly">Resources</a> <a href="#family" class="button circled scrolly">Family</a> <a href="#footer" class="button circled scrolly">Contact</a><br><br><br><br><br><br><br><br>
@@ -41,23 +41,20 @@
 	
 				</div>
 
-			<!-- Banner -->
-				<section id="banner">
-					<header>
-						
-<img src="images/hshj_headshot.jpg" width="340" height="500" class="rounded-corners" alt="" style="float: left; margin-left:15% ">
+<!-- Banner -->
+<section id="banner">
+    <header>
+        <img src="images/hshj_headshot.jpg" width="340" height="500" class="rounded-corners" alt="" style="float: left; margin-left:5%; margin-right:5%;margin-top: 10%;">
+        <h2><strong>About Me</strong></h2>
+        <p align="left" style="margin-left:30%;margin-right: 10%; text-align: left;">
+            As an <b>Assistant Professor of Astronomy at Agnes Scott College</b>, my work builds upon a strong foundation in astrophysical research and collaboration with the RECONS group. My career has progressed from advanced research using the CHIRON echelle spectrometer at the SMARTS 1.5m telescope in Cerro Tololo, Chile, to a role where I combine my research expertise with a deep commitment to teaching.<br><br>
+            My research aims to find the <b>Best Stellar Hosts for Life in the Solar Neighborhood. <img src="images/planet_icon.png" width="30" height="30"> </b>. To achieve this, I conduct spectroscopic analysis of K dwarf stars located within 100 light-years, examining their age, activity, temperature, and metallicity. Recently, I have expanded this exploration into high-energy UV and X-ray spectroscopy, which has broadened my investigation into the complexities of stellar astronomy.<br><br>
+            Teaching is a vital part of my work. In the classroom, I'm passionate about integrating coding and data science with stellar astronomy, advocating for hands-on learning. <b> My goal is to give students real-world experience in astronomical research methods </b>. Beyond academia, I'm engaged in K-12 outreach, striving to spark a lifelong interest in astronomy among young students and contributing to the growth of the scientific community.
+        </p>
+    </header>
+    <a href="#main" class="button" style="float: right; margin-right: 30%;">Next Section</a>
+</section>
 
-				<h2><strong>About Me</strong></h2>
-						<p align="justify">
-						I'm currently an Astronomy Ph.D. candidate at Georgia State University,<br> working with Professor Todd Henry and the RECONS group. I am also a <br> Research Fellow for the CHIRON echelle spectrometer located on
-						SMARTS <br> 1.5m telescope in Cerro Tololo, Chile. <br><br> My research aims to find the <b>Best Stellar Hosts for Life in the Solar Neighborhood. <img src="images/planet_icon.png" width="30" height="30"></b><br> To do this, I use high-resolution CHIRON spectra of nearby (within 40 parsecs) K dwarfs<br>
-						to characterize stellar properties such as; Age, Activity, Temperature & Metallicity.
-						</p>
-						
-					</header>
-					<a href="#main" style="float: right;margin-right: 27.5%" class="button">Next Section </a>
-					
-				</section>
 
 
 				
@@ -268,7 +265,7 @@ HD 285507, (i) GJ0250A, and (j) eps Ind. Spectral types taken from the Simbad da
 										<header>
 											<h2 class="major"><a href="index.html">Contact</a></h2>
 										</header>
-										<p><b>Office:</b><br>25 Park Place<br>Atlanta, GA 30303<br><br><b>Email:</b><br>hodarijamesastro@gmail.com<br></p>
+										<p><b>Office:</b><br>141 E. College Ave.<br>Decatur, Georgia 30030<br><br><b>Email:</b><br>hodarijamesastro@gmail.com<br><br>hames@agnesscott.edu<br></p>
 										<ul class="icons">
 											<li><a href="https://www.linkedin.com/in/hodarijames/" target="_blank" class="icon brands fa-linkedin-in"><span class="label">Linkedin</span></a></li>
 										</ul>
